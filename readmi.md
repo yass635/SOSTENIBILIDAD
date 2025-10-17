@@ -16,3 +16,9 @@
 ### 10/10/25
 
 - Semana 4: Miguel nos explico sobre los limites en la sociedad humana
+
+### 17/10/25
+
+- Semana 5: Miguel nos explico sobre como se relacionan los seres vivos
+
+
