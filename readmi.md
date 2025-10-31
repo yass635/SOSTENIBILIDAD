@@ -22,3 +22,11 @@
 - Semana 5: Miguel nos explico sobre como se relacionan los seres vivos
 
 
+### 24/10/25
+
+- Semana 6: estuvimos devatiendo si el universo es infinito
+
+
+### 31/10/2025
+
+- Miguel nos explico sobre la relacion entre lo ambiental y lo social.
