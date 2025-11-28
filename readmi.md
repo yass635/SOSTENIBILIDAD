@@ -1,4 +1,19 @@
 # Noviembre
+### 28/11/2025
+
+#### RESUMEN
+- La economia lineal se basa en un flujo unidireccional de recursos. 
+
+- Los principios clave de la circularidad es el ecodiseño, la prioridad y la integracion ecosistematica.
+
+- La economia verde busca integrar la sostenibilidad ambiental en todas las secciones economicas.
+
+#### Pregunta de la semana: 
+
+##### ¿Y ami que me cuentas? ¿Enfoque colectivo o individual? 
+
+Pienso que lo mas util es utilizar la economia circular con un enfoque colectivo. 
+
 
 ### 14/11/2025
 
@@ -18,6 +33,7 @@ El peso oculto es la diferencia entre los que tenemos en la vida cotidiana y lo 
 #### ¿Cuantas toneladas de embalaje hace falta para fabricar los elementos?
 
 En un embalaje ligero hace falta 0.5 toneladas y en uno pesado 2.4 toneladas.
+
 # OCTUBRE
 
 ### 3/10/25
