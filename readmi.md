@@ -1,3 +1,21 @@
+# Diciembre
+
+### 05/12/2025
+
+#### RESUMEN
+
+- Tema de hoy: Huella ecologica y huella de carbono
+- La huella ecologica es la cantidad desechos que generan los seres vivos 
+- La huella de carbono compara lo que consumimos contra lo que la Tierra puede generar.
+- A partir de los años 50 se inicio las transformaciones socioeconomicas lo que genero un aumento contable del consumo de recursos.
+- Las estartegias de mitigacion consisten en reducir, eficiencia y compensar.
+- Hemos realizado una encuesta de la cantidad de recursos del medio ambiente que gastamos.
+
+#### PREGUNTA 
+
+- ¿Cuales tu huella de carbono?: 17.8 
+
+
 # Noviembre
 ### 28/11/2025
 
