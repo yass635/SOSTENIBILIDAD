@@ -1,4 +1,24 @@
 # Diciembre
+### 12/12/2025
+
+#### RESUMEN
+
+- Tema de hoy: Cambio climatico
+
+- El cambio climatico es concebido como multiplicador de amenazas.
+
+
+
+#### PREGUNTA 
+
+- ¿Cual es el principal emisor de CO2?
+
+La quema de productos fosiles 
+
+- ¿Que puedo hacer yo como programador para mitigar el cambio climatico?
+
+Hacer el codigo mas eficiente reduciendo el consumo electrico.
+
 
 ### 05/12/2025
 
