@@ -1,6 +1,8 @@
 # Diciembre
 ### 12/12/2025
 
+![alt text](descarga.jpg)
+
 #### RESUMEN
 
 - Tema de hoy: Cambio climatico
@@ -19,9 +21,12 @@ La quema de productos fosiles
 
 Hacer el codigo mas eficiente reduciendo el consumo electrico.
 
+#### Opinion personal 
+
+En mi opinión, el cambio climático es un problema grave que requiere la implicación de todos los sectores. Como programador, considero que tenemos una responsabilidad importante, ya que el uso de tecnologías digitales también consume muchos recursos energéticos. Optimizar el código, reducir procesos innecesarios y apostar por soluciones tecnológicas más sostenibles puede contribuir, aunque sea en pequeña escala, a la lucha contra el cambio climático.
 
 ### 05/12/2025
-
+![alt text](<descarga (1).jpg>)
 #### RESUMEN
 
 - Tema de hoy: Huella ecologica y huella de carbono
@@ -35,10 +40,13 @@ Hacer el codigo mas eficiente reduciendo el consumo electrico.
 
 - ¿Cuales tu huella de carbono?: 17.8 
 
+#### Opinion personal 
+
+En mi opinión, conocer nuestra huella ecológica y de carbono es fundamental para tomar conciencia del impacto que tenemos sobre el planeta. El resultado obtenido muestra que aún hay margen de mejora en nuestros hábitos de consumo. Creo que pequeños cambios en el día a día, como reducir el consumo de energía o usar medios de transporte más sostenibles, pueden contribuir a disminuir nuestra huella y cuidar mejor el medio ambiente.
 
 # Noviembre
 ### 28/11/2025
-
+![alt text](<descarga (2).jpg>)
 #### RESUMEN
 - La economia lineal se basa en un flujo unidireccional de recursos. 
 
@@ -52,9 +60,12 @@ Hacer el codigo mas eficiente reduciendo el consumo electrico.
 
 Pienso que lo mas util es utilizar la economia circular con un enfoque colectivo. 
 
+#### Opinion personal
+
+En mi opinión, el enfoque colectivo es más efectivo porque permite que gobiernos, empresas y ciudadanos trabajen juntos para generar un impacto real y duradero. Aunque las acciones individuales son importantes, los cambios a gran escala solo se logran cuando existe cooperación y compromiso conjunto para aplicar los principios de la economía circular en la sociedad.
 
 ### 14/11/2025
-
+![alt text](images.jpg)
 #### RESUMEN
 
 El peso oculto es la diferencia entre los que tenemos en la vida cotidiana y lo que se extrajo del medio ambiente. 
@@ -67,6 +78,8 @@ El peso oculto es la diferencia entre los que tenemos en la vida cotidiana y lo 
 
 - La economia convencional oculta los procesos de extraccion y emision de los productos.
 
+#### OPINION PERSONAL
+En mi opinión, es importante conocer el peso oculto de los productos porque nos ayuda a ser más conscientes del impacto real que tienen nuestras decisiones de consumo sobre el medio ambiente. Creo que la economía circular es una alternativa necesaria frente a la economía lineal, ya que promueve un uso más responsable de los recursos y reduce la generación de residuos. Si los consumidores estuviéramos mejor informados, podríamos elegir productos más sostenibles y contribuir a un modelo económico más respetuoso con el planeta.
 
 #### ¿Cuantas toneladas de embalaje hace falta para fabricar los elementos?
 
