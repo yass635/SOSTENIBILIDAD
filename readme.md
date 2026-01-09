@@ -1,3 +1,20 @@
+# Enero
+### 9/1/2026
+
+![alt text](../Vertederos.jpg)
+
+#### RESUMEN
+
+- Tema de hoy: Hemos hablado de la contaminacion, como afecta esto a nosotros y la posibles soluciones. Vimos los distintos tipos de contaminacion como los vertederos de dispositivos electronicos o el monstruo de las alcantarillas. Los microplasticos que ingerimos o respiramos pueden imitar nuestras hormonas provocando problemas de salud. Todos los residuos se acumulan en desiertos en diferentes partes del mundo.
+
+#### PREGUNTA
+- ¿Por que cambiaste tu ultimo telefono movil?
+
+- Porque se rompio la pantalla y comprar otro era mas economico que repararlo. 
+
+#### OPINION PERSONAL
+- La contaminación es un problema que nos afecta a todos, no solo al planeta sino también a nuestra salud. Los microplásticos que respiramos o comemos pueden alterar nuestro cuerpo, y muchos residuos terminan acumulados en desiertos o vertederos sin realmente solucionarse. Creo que necesitamos cambiar nuestros hábitos de consumo y ser más responsables con lo que tiramos, porque cuidar el medio ambiente es cuidar también de nosotros mismos. 
+
 # Diciembre
 ### 12/12/2025
 
