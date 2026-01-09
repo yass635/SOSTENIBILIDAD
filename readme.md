@@ -1,7 +1,7 @@
 # Enero
 ### 9/1/2026
 
-![alt text](../Vertederos.jpg)
+![alt text](Vertederos.jpg)
 
 #### RESUMEN
 
