@@ -1,6 +1,27 @@
 # Enero
 ### 9/1/2026
 
+![alt text](descarga1.jpg)
+
+#### RESUMEN
+
+-  Hoy hablamos de la agenda 2030, son 17 objetivos bondadosos creados en 2015 que se deben realizar antes de 2030. En principio no son criticables pero lo que si es criticable es la forma en la que lo hacen. 
+
+
+#### PREGUNTA
+
+- Se van a conseguir los objetivos de desarrollo sostenible?
+
+- No, pero no porque sea imposible sino porque muchas organicaciones y empresas utilizan las ODS como una estrategia de marketing priorizando mas la imagen antes que acciones reales. Esto puede provocar una falsa percepcion de sostenibilidad , haciendo creer a la sociedad que se estan logrando avances cuando en realidad el impacto es negativo, debilita la credibilidad de los ODS, ya que se asocian con acciones superficiales en lugar de transformaciones reales, y beneficia a quienes no cumplen, ya que obtienen reconocimiento sin asumir los costos economicos o sociales de una transicion sostenible real.
+
+
+
+#### OPINION PERSONAL
+
+- Desde mi punto de vista, los ODS son una buena idea y tienen un objetivo importante, pero muchas veces no se aplican como deberían. En lugar de servir para generar cambios reales, a veces se usan solo para quedar bien o mejorar la imagen de empresas y gobiernos. Esto hace que la gente piense que se está avanzando cuando en realidad los problemas siguen ahí. Por eso creo que los ODS solo funcionan de verdad cuando hay compromiso real y acciones claras, y no solo palabras bonitas.
+
+### 9/1/2026
+
 ![alt text](Vertederos.jpg)
 
 #### RESUMEN
