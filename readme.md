@@ -1,4 +1,25 @@
 # Enero
+### 23/1/2026
+
+
+#### RESUMEN
+
+-  En el tema de hoy tratamos el ultimo tema (sostenibilidad empresarial). Empezamos hablando de las isos del medio ambiente. La sostenibilidad se caracteriza por la ecodependencia, translimitacion y cambio de paradigma.  El plan de sostenibilidad consiste en el diagnostico inicial, grupos de intereses, materialidad y accion y metricas. 
+
+- 
+#### PREGUNTA
+
+- ¿Los planes de sostenibilidad son Greenwashing o sostenibilidad real?
+
+- Depende de la empresa, cuando una empresa cambia cosas que le cuestan dinero, tiempo o comodidad, suele ir en serio; cuando solo cambia el discurso, no.
+
+
+
+
+#### OPINION PERSONAL
+
+- Para mí, la sostenibilidad empresarial solo tiene sentido si se entiende como un cambio real de mentalidad y no como un trámite.
+
 ### 9/1/2026
 
 ![alt text](descarga1.jpg)
