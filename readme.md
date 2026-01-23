@@ -14,8 +14,6 @@
 - Depende de la empresa, cuando una empresa cambia cosas que le cuestan dinero, tiempo o comodidad, suele ir en serio; cuando solo cambia el discurso, no.
 
 
-
-
 #### OPINION PERSONAL
 
 - Para mí, la sostenibilidad empresarial solo tiene sentido si se entiende como un cambio real de mentalidad y no como un trámite.
