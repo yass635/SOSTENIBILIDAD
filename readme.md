@@ -1,3 +1,17 @@
+# Febrero
+### 6/2/2026
+
+
+#### RESUMEN
+
+-  En el dia de hoy presentamos las paginas webs.
+
+#### PREGUNTA
+
+- ¿Si el pantalon esta roto que hago con el?
+
+Intercambiarlo a una persona que lo pueda arreglar.
+
 # Enero
 ### 23/1/2026
 
